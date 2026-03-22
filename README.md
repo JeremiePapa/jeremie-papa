@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremie</h1>
-<h3 align="center">AI Automation Developer | n8n | VAPI | GHL | Supabase</h3>
+<h3 align="center">AI Automation Developer | n8n | Zapier | GHL | Supabase</h3>
 
 ---
 
@@ -36,13 +36,6 @@
 
 ---
 
-### 📞 AI Voice Agent (VAPI)
-- Handles inbound calls
-- Appointment booking
-- CRM integration
-
----
-
 ### 🧠 Email Classifier Automation
 - AI-powered email classification
 - Auto-routing + response system
@@ -51,3 +44,23 @@
 ---
 
 ## 📈 System Architecture Mindset
+User -> Webhook -> n8n -> AI -> Database -> Response -> CRM
+
+---
+
+## 🌐 Portfolio
+🔗 https://portfolio-2025-one-kappa.vercel.app/
+
+---
+
+## 📫 Contact
+- Email: markjeremiepapa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jeremie-papa-b91165251/
+
+---
+
+## ⚡ What I Do Best
+- Build automation systems that replace manual workflows
+- Design scalable AI-powered solutions
+- Debug complex workflow issues fast
+- Turn ideas into working systems quickly
