@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremie</h1>
-<h3 align="center">AI Automation Developer | n8n | Zapier | GHL | Supabase</h3>
+<h3 align="center">AI Automation Engineer | AI Agents • CRM Systems • Workflow Automation</h3>
+
+---
+
+## 📞 Work With Me
+
+Need help with automation or AI systems?
+
+👉 Book a free consultation:
+https://calendly.com/markjeremiepapa/30min
 
 ---
 
@@ -43,11 +52,6 @@
 
 ---
 
-## 📈 System Architecture Mindset
-User -> Webhook -> n8n -> AI -> Database -> Response -> CRM
-
----
-
 ## 🌐 Portfolio
 🔗 https://portfolio-2025-one-kappa.vercel.app/
 
@@ -64,3 +68,20 @@ User -> Webhook -> n8n -> AI -> Database -> Response -> CRM
 - Design scalable AI-powered solutions
 - Debug complex workflow issues fast
 - Turn ideas into working systems quickly
+
+---
+
+### ⚙️ What I Build
+- AI-powered automation systems
+- CRM integrations (GHL, Pipedrive)
+- Voice AI agents (VAPI)
+
+---
+
+### 🧠 Core Strength
+System Design > Scripting
+
+I build complete automation pipelines:
+Webhook → Processing → AI → Database → CRM → Output
+- Lead generation pipelines
+- End-to-end n8n workflows
